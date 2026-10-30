@@ -1,0 +1,2 @@
+conda activate CUWB
+python cdp-client.py data.txt
